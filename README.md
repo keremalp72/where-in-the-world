@@ -33,4 +33,4 @@ Bu proje, [REST Countries API](https://restcountries.com/) kullanılarak gelişt
 ![desktop-dark](/public/images/desktop-dark.png)
 ![desktop-light](/public/images/desktop-light.png)
 ![country-detail](/public/images/country-detail.png)
-![filtered](/public/images/desktop-filtered.png)
+![filtered](/public/images/filtered.png)
