@@ -310,6 +310,7 @@ padding: 6px 20px;
   }
   .detail-container {
     padding-inline: 81px;
+    height: calc(100vh-84px);
   }
   .filter-bar {
     display: flex;
