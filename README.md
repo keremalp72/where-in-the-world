@@ -30,7 +30,7 @@ Bu proje, [REST Countries API](https://restcountries.com/) kullanılarak gelişt
 
 ## 🖼️ Ekran Görüntüleri
 
-![desktop-dark] (/public/images/desktop-dark.png)
-![desktop-light] (/public/images/desktop-light.png)
-![country-detail] (/public/images/country-detail.png)
-![filtered] (/public/images/desktop-filtered.png)
+![desktop-dark](/public/images/desktop-dark.png)
+![desktop-light](/public/images/desktop-light.png)
+![country-detail](/public/images/country-detail.png)
+![filtered](/public/images/desktop-filtered.png)
