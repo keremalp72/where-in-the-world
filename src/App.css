@@ -47,7 +47,7 @@
 
 .container.dark .country-card,
 .container.dark .selected-country-card {
-  background-color: #202c37;
+  background-color: #2b3844;
   color: white;
 }
 
@@ -161,7 +161,7 @@
   flex-direction: column;
   justify-content: center;
   background-color: white;
-  border-radius: 8px;
+  border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
   margin: auto;
   max-width: 300px;
@@ -195,12 +195,13 @@
   font-weight: 600;
 }
 .detail-container {
-  padding: 40px 27px 60px;
+  height: 100vh;
   background-color: #fafafa;
 }
 .back-btn {
-padding: 6px 20px;
+  padding: 6px 20px;
   background-color: white;
+  margin-top: 40px;
   margin-bottom: 64px;
   border: none;
   box-shadow: 0px 0px 7px 0px #0000004B;
