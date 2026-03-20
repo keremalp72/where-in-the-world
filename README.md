@@ -24,7 +24,7 @@ Bu proje, [REST Countries API](https://restcountries.com/) kullanılarak gelişt
 ### Projeyi yerel ortamında çalıştırmak için şu adımları izleyebilirsin:
 
 - git clone https://github.com/keremalp72/where-in-the-world.git
-- cd proje-adi
+- cd where-in-the-world
 - npm install
 - npm start
 
