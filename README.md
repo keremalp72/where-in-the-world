@@ -16,8 +16,8 @@ Bu proje, [REST Countries API](https://restcountries.com/) kullanılarak gelişt
 
 - React
 - REST Countries API
-- CSS (Kendi stil dosyan)
-- Font Awesome (ikonlar için)
+- CSS 
+- Font Awesome 
 
 ## 💻 Kurulum
 
