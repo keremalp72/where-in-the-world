@@ -20,7 +20,7 @@
     line-height: 1.5;
     /* 5. Improve text rendering */
     -webkit-font-smoothing: antialiased;
-    font-family: Nunito Sans, sans-serif;
+    font-family: 'Inter', sans-serif;
   }
   
   /* 6. Improve media defaults */
